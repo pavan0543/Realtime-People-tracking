@@ -6,5 +6,5 @@ class TrackableObject:
 		self.centroids = [centroid]
 
 		# initialize a boolean used to indicate if the object has
-		# already been counted or not
+		# already been counted  or not
 		self.counted = False
